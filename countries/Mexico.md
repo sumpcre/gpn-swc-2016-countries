@@ -10,5 +10,5 @@ Spanish
 
 ## interesting trivia
 Frida Kahlo is from Mexico
-
+So is Diego Rivera
 
